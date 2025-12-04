@@ -6,7 +6,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through "kandra.sowjanya@gmail.com"
+- 📫 How to reach me: Through "kandra.sowjanya@gmail.com"
 
 <!---
 sowjanya-Frontend/sowjanya-Frontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
