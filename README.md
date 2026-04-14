@@ -5,7 +5,7 @@
 --> A striver for continuous improvement step-by-step, with focus on "on-the-job learning".
 - 👀 I’m interested in frontend development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Through "kandra.sowjanya@gmail.com"
+- 📫 How to reach me: Through "sowjanya111223@gmail.com"
 
 <!---
 sowjanya-Frontend/sowjanya-Frontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
